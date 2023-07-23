@@ -1,0 +1,10 @@
+Task 1 - 
+
+    Perform DBSCAN clustering on the airlines data to form different clusters and try to identify clusters of passengers that have similar characteristics for the purpose of targeting different segments for different types of mileage offers
+    
+    
+Task 2 - 
+
+    Perform DBSCAN clustering on the crime data to understand which places belong together based on the statistics of different crimes.
+    
+Both the tasks are performed on the normalized dataset and standardized dataset.
